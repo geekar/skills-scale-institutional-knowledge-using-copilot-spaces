@@ -1,7 +1,46 @@
-OctoAcme employs a structured yet flexible approach to project management, designed to foster transparency, collaboration, and continuous improvement across cross-functional teams. The process begins with clear initiation guidelines, ensuring every new project is supported by a documented problem statement, success metrics, unambiguous stakeholder alignment, and a prioritized timeline. Following initiation, project planning breaks work into actionable increments, establishes a well-prioritized backlog with acceptance criteria, and records dependencies and risks. The planning phase ensures each scope item is measurable and “Definition of Done” is agreed, setting the stage for focused execution.
+# OctoAcme Project Management
 
-The project management lifecycle is defined by practical roles and responsibilities, with Project Managers coordinating schedules, risks, and communication, Product Managers driving outcome definition and backlog prioritization, Developers building and testing features to meet quality standards, and QA leads validating acceptance criteria. Stakeholders participate in milestone reviews and decision gates, while each role is integrated into recurring team ceremonies: daily standups for progress and blockers, weekly syncs for delivery updates, and retrospectives to capture learnings and track improvement actions. Key artifacts—such as the project one-pager, risk register, backlog, and release plans—ensure information is centralized and versioned.
+OctoAcme employs a **structured yet flexible approach** to project management, designed to foster transparency, collaboration, and continuous improvement across cross-functional teams. 
 
-OctoAcme places strong emphasis on communication cadence and escalation paths. Weekly and monthly updates keep stakeholders informed, dedicated project boards provide single sources of truth for status and risk, and incident response or blocker escalation is standardized with clear ownership—from team triage to sponsor-level action. Templates for release notes, risk communication, and incident briefings help maintain transparency, encourage feedback, and support psychological safety within the team.
+---
 
-Quality assurance is woven into every stage: code contributions require automated test coverage and linting, manual QA for feature acceptance is executed when needed, and security scanning is mandatory before release. The deployment process is controlled by checklists for both routine and incident-driven releases, with rollback plans prepared for rapid recovery. Continuous improvement is formally captured through retrospectives and tracked action items, ensuring learnings are transformed into updated processes and measurable enhancements to project delivery.
+## **Project Management Lifecycle**
+
+The process begins with clear **practical roles and responsibilities**:
+
+- **Project Managers:**  
+  Responsible for coordinating schedules, managing risks, and facilitating communication.
+
+- **Product Managers:**  
+  Drive outcome definition and prioritize features to ensure alignment with business goals.
+
+---
+
+## **Communication Cadence & Escalation Paths**
+
+OctoAcme places a strong emphasis on **regular communication and clear escalation paths**:
+
+- **Weekly and Monthly Updates:**  
+  Keep stakeholders informed of progress and changes.
+
+- **Dedicated Project Boards:**  
+  Serve as single sources of truth for status and prioritization.
+
+---
+
+## **Quality Assurance**
+
+Quality assurance is **woven into every stage** of development:
+
+- **Automated Test Coverage & Linting:**  
+  All code contributions require these to maintain high standards.
+
+- **Manual QA for Feature Acceptance:**  
+  Executed when needed to ensure quality user experiences.
+
+- **Security Scanning:**  
+  Mandatory at all stages to safeguard against vulnerabilities.
+
+---
+
+**Transparency, collaboration, and continuous improvement** are at the heart of OctoAcme's project management philosophy.
